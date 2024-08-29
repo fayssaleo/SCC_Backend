@@ -1,0 +1,5 @@
+- findOrFail
+- responses
+- username istead of the email
+- delete repas
+- logout
